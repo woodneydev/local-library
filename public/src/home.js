@@ -1,9 +1,9 @@
 function getTotalBooksCount(books) {
-  return books.length
+  return books.length;
 }
 
 function getTotalAccountsCount(accounts) {
-  return accounts.length
+  return accounts.length;
 }
 
 function getBooksBorrowedCount(books) {
